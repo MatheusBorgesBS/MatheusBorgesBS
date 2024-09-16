@@ -9,7 +9,7 @@ Profile dedicated to sharing work and studies,  as a way to track my progress an
 
 <div align = "center"
   <p>
-  -=- Principal Used Languages -=- 
+  -=- Main tools used -=- 
   </p>
 
   [![My Skills](https://skillicons.dev/icons?i=python,html,css,vscode)](https://skillicons.dev)
