@@ -5,6 +5,7 @@
 ## About This GitHub
 
 Profile dedicated to sharing work and studies,  as a way to track my progress and share projects,  with the goal of turning this GitHub into a portfolio for the job market.
+
 I also really love my veteran Osmar!
 
 
