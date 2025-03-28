@@ -6,7 +6,6 @@
 
 Profile dedicated to sharing work and studies,  as a way to track my progress and share projects,  with the goal of turning this GitHub into a portfolio for the job market.
 
-I also really love my veteran Osmar!
 
 
 <div align = "center"
@@ -14,5 +13,5 @@ I also really love my veteran Osmar!
   -=- Main tools used -=- 
   </p>
 
-  [![My Skills](https://skillicons.dev/icons?i=python,octave,html,css,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=python,octave,html,css,)](https://skillicons.dev)
 </div>
