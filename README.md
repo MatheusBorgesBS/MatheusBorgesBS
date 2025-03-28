@@ -13,5 +13,5 @@ Profile dedicated to sharing work and studies,  as a way to track my progress an
   -=- Main tools used -=- 
   </p>
 
-  [![My Skills](https://skillicons.dev/icons?i=python,octave,html,css,)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=python,octave,html,css)](https://skillicons.dev)
 </div>
