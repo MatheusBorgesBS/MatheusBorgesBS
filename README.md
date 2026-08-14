@@ -46,9 +46,9 @@ Implementations and visualizations of classical graph algorithms including **Dij
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,git,github,linux,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,git,github,octave,graphql,js)](https://skillicons.dev)
 
-**NumPy · SciPy · scikit-learn · Matplotlib · PyTorch · Kedro · MATLAB/Octave**
+**NumPy · SciPy · scikit-learn · Matplotlib · PyTorch · Kedro ·**
 
 </div>
 
